@@ -1,0 +1,68 @@
+# robots.txt file http://www.hoteltropicanaravda.com
+# updated on 23.04.2012
+
+
+User-agent: *
+
+Disallow: /admin
+Disallow: /cgi-bin
+Disallow: /oldsite
+Disallow: /design
+Disallow: /mail
+
+Allow: /tpl/
+Allow: /classes/
+Allow: /images/
+Allow: /scripts/
+Allow: /styles/
+Allow: /uploads/
+
+Allow: /contact.php
+Allow: /content.php
+Allow: /dispatch.php
+Allow: /migrate.php
+Allow: /news.php
+Allow: /news_detail.php
+Allow: /index.php
+Allow: /promotions_detail.php
+Allow: /login.php
+Allow: /logout.php
+Allow: /news.php
+Allow: /news_detail.php
+
+
+Sitemap: http://www.hoteltropicanaravda.com/sitemap.xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
