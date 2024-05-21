@@ -13,7 +13,7 @@ function show_message(html)
 
 
 hs.graphicsDir = "http://" + document.domain+"/scripts/highslide/highslide/graphics/";
-hs.outlineType = 'rounded-white';
+hs.outlineType = '';
 hs.wrapperClassName = 'draggable-header';
 hs.align = 'center';
 
